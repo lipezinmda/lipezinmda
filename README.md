@@ -1,4 +1,4 @@
-##  Boas vindas ao perfil do _Felipe_ 
+##  Bem vindos ao perfil do _Felipe_ 
 
 **lipezinmda/lipezinmda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
